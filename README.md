@@ -1,3 +1,6 @@
+run :   curl http://localhost:8080/
+
+
 # loggingLevels
 this project Descriptes different logging level and Spring security
 
